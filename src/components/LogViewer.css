@@ -1,0 +1,24 @@
+.log-viewer {
+    margin-top: 10px;
+  }
+  
+  .log-container {
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    max-height: 200px;
+    overflow-y: auto;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
